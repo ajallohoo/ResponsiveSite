@@ -1,0 +1,187 @@
+body {
+	background-color: #ffffff;
+	font-family : "Verdana" ,"Arial";
+}
+#searchbox {
+	text-align : right;
+	position : absolute;
+	right : 20px;
+	top : 60px;
+
+}
+#heading1{
+	position: absolute;
+	left : 90px;
+	line-height:140%;
+}
+h1 {
+	padding : 2%;
+	color: #ffffff;
+}
+h2 {
+	padding : 0;
+}
+p {
+	padding : 2%;
+	margin-left: 30px;
+}
+photo{
+	position : relative;
+}
+
+img {
+	text-align : center;
+	padding : 0;
+	width : 15%;
+	height : 20%;
+	position : absolute;
+	right : 372px;
+	top : 394px;
+	border : 1px solid grey;
+}
+.sidebar4 {
+	position : absolute;
+	right : 371px;
+	top : 594px;
+	background-color: #7070f0;
+	width : 147px;
+	height : 25px;
+	color : #ffffff;
+}
+
+#wrapper {
+	margin : 0 auto;
+	max-width : 1080px;	
+	padding : 2%;
+	border-radius : 10%;	
+	width : 960px;
+	height : 1080px;
+	position : relative;
+	bottom : 10px;
+	left : 10px;
+	top : 10px;
+	right : 10px;
+	min-width : 500px;
+
+}
+#container {
+	width : 960px;
+	height : 1000px;
+	position : relative;
+	bottom : 10px;
+	left : 10px;
+	top : 10px;
+	right : 10px;
+	border : 1px solid grey;
+	min-width : 500px;
+	max-width : 1080px;
+}
+header {
+	padding : 1%;
+	text-align : left;
+	background-color: #808000;
+	border : 2px solid black;
+}
+
+#navbar{
+	margin : 0 0;
+	padding : 1%;
+	
+	
+}
+#navbar ul {
+	list-style : none;
+	padding : 0;
+
+}
+#navbar li a {
+	border : 1px solid #000080;
+	margin-right : 20px;
+	border-radius : 3px;
+	padding : 0;
+	float : left;
+	display : block;
+	position : relative;
+	bottom : 6px;
+	background-color: #000080;
+	text-align : center;
+	color : #ffffff;
+	width : 130px;
+	height : 30px;
+	
+}
+
+.left-col {
+	position : absolute;
+	left : 40px;
+	top : 150px;
+	border : 1px solid grey;
+	background-color : #ffffff;
+	width : 55%;
+	height : 60%;
+	margin-top : 5%;
+	border-radius : 1%;	
+}
+.right-col {
+	position : absolute;
+	right : 30px;
+	top : 150px;
+	background-color: #000080;
+	width : 30%;
+	margin-top : 5%;
+	border-radius : 1%;
+}
+.sidebar1 {
+	position : relative;
+	right : 20px;
+	top : 10px;
+	background-color: #7070f0;
+	color : #ffffff;
+	width : 180px;
+	height : 30px;
+}
+.sidebar2 {
+	position : relative;
+	right : 20px;
+	top : 10px;
+	background-color: #7070f0;
+	color : #ffffff;
+	width : 180px;
+	height : 30px;
+}
+.sidebar3 {
+	position : relative;
+	right : 20px;
+	top : 10px;
+	background-color: #7070f0;
+	color : #ffffff;
+	width : 180px;
+	height : 30px;
+}
+#h3 {
+	position: absolute;
+	right : 16px;
+	
+}
+.date{
+	position : absolute;
+	left : -20px;
+	top : 22px;
+	width : 90px;
+	height :90px;
+	border-radius : 4px;
+	background-image: -moz-linear-gradient(top, #a6a6a6, #808000); 
+	color: #ffffff;
+	text-align :center;
+	line-height:240%;
+}
+#h4 {
+	position: absolute;
+	line-height:70%;
+}
+footer {
+	background-color: #0000000;
+}
+
+
+
